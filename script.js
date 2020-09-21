@@ -22,3 +22,17 @@ while (passwordLength < 8 || passwordLength > 128) {
   );
   passwordLength = Number(passwordLengthStr);
 }
+while (characters.length === 0) {
+  if (confirm("Shall I include lowercase letters?")) {
+    characters += lowerCase;
+  }
+  if (confirm("Shall I include uppercase letters?")) {
+    characters += upperCase;
+  }
+  if (confirm("Shall I include numbers?")) {
+    characters += numeric;
+  }
+  if (confirm("Shall I include special characters?")) {
+    characters += special;
+  }
+}
