@@ -9,8 +9,16 @@ function writePassword() {
   passwordText.value = password;
 }
 
-function generatePassword() {
-  return "This will be replaced by my generated password.";
-}
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+var lowerCase = "abcdefghijklmnopqrstuvwxyz";
+var upperCase = lowerCase.toUpperCase();
+var numeric = "0123456789";
+var special = "!@#$%^&*";
+var passwordLength = 0;
+while (passwordLength < 8 || passwordLength > 128) {
+  let passwordLengthStr = prompt(
+    "How long do you want the password to be? \nMin of 8, max of 128."
+  );
+  passwordLength = Number(passwordLengthStr);
+}
