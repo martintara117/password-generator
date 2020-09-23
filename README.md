@@ -26,11 +26,11 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Installation
 
-Please visit my Github page - user name is martintara117. Once there, clone my taramartin_portfolio repisitory. After you have cloned, you may add it to your repository. From there, you will git pull and type code . to open Visual Studio Code to edit.
+Please visit my Github page - user name is martintara117. Once there, clone my password_generator repository. After you have cloned, you may add it to your repository. From there, you will git pull and type code . to open Visual Studio Code to edit.
 
 ## Credits
 
-Credit goes to Georgia Tech Coding Boot Camp - for providing the intial html,css and js to be edited.
+Credit goes to Georgia Tech Coding Boot Camp - for providing the initial html,css and js to be edited.
 Finalized by Tara Martin
 
 ## Contributing
