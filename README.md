@@ -6,6 +6,13 @@ This password generator was given to us so we could practice writing JavaScript 
 
 ## Screenshot
 
+![password-generator](assets/images/pwgenerator1.png)
+![password-generator](assets/images/pwgenerator2.png)
+![password-generator](assets/images/pwgenerator3.png)
+![password-generator](assets/images/pwgenerator4.png)
+![password-generator](assets/images/pwgenerator5.png)
+![password-generator](assets/images/pwgenerator6.png)
+
 ## Acceptance_Criteria
 
 GIVEN I need a new, secure password
