@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Usage
 
 Please view gif to see the how the quiz performance.
-![password-generator](assets/images/password-generator.gif)
+![password-generator](Assets/Images/password-generator.gif)
 
 To view live visit: [click here.](https://martintara117.github.io/password-generator/)
 
