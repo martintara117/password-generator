@@ -4,14 +4,7 @@
 
 This password generator was given to us so we could practice writing JavaScript code. We applied tools taught to us over the past week, such as variables, functions, arrays, prompts, loops, strings, booleans, and if/else statements. The password generator prompts the user to select how many characters it would like to use - between 8-128. The prompt will loop until the user selects an acceptable character count. It then has a series of booleans that ask the user if they would like lowercase, uppercase, numbers and special characters. The prompts will loop until the user selects at least one of the aforementioned choices. Once completed, the password generator will generate a password based on the constrains designated by the user.
 
-## Screenshot
-
-![password-generator](assets/images/pwgenerator1.png)
-![password-generator](assets/images/pwgenerator2.png)
-![password-generator](assets/images/pwgenerator3.png)
-![password-generator](assets/images/pwgenerator4.png)
-![password-generator](assets/images/pwgenerator5.png)
-![password-generator](assets/images/pwgenerator6.png)
+## Preview
 
 ## Acceptance_Criteria
 
@@ -31,9 +24,21 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-## Installation
+## Instillation
 
-Please visit my Github page - user name is martintara117. Once there, clone my password_generator repository. After you have cloned, you may add it to your repository. From there, you will git pull and type code . to open Visual Studio Code to edit.
+1. Please visit my Github page - user name is martintara117.
+2. Once there, clone my repository for "password-generator".
+3. After you have cloned, you may add it to your repository.
+4. From there, you will git pull and type code . to open Visual Studio Code to edit.
+
+## Usage
+
+Please view gif to see the how the quiz performance.
+![password-generator](assets/images/password-generator.gif)
+
+To view live visit: [click here.](https://martintara117.github.io/password-generator/)
+
+One may also view locally by following the above installation steps and opening [index.html](index.html) in your browser.
 
 ## Credits
 
